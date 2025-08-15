@@ -31,7 +31,7 @@ This repository contains my work for the Seasons of Code (SOC) project focused o
   - Semantic segmentation concepts.
   - U-Net architecture for pixel-wise image classification.
   - Model training and evaluation metrics.
-
+- Built U-net model
 ---
 
 ## 🧪 Tools and Libraries Used
